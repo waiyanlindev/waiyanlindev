@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- uses: waiyanlindev/metrics@latest
+![Metrics](https://metrics.lecoq.io/waiyanlindev?template=classic&followup=1&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FRangoon)
 
 <!--
 **waiyanlindev/waiyanlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
