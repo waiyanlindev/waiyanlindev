@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 June 2024 - To: 24 July 2024
+From: 25 June 2024 - To: 25 July 2024
 
-Total Time: 7 hrs 59 mins
+Total Time: 8 hrs 9 mins
 
-Python       4 hrs 20 mins   >>>>>>>>>>>>>>-----------   54.28 %
-HTML         3 hrs 33 mins   >>>>>>>>>>>--------------   44.47 %
-Bash         4 mins          -------------------------   00.91 %
+Python       4 hrs 29 mins   >>>>>>>>>>>>>>-----------   55.14 %
+HTML         3 hrs 33 mins   >>>>>>>>>>>--------------   43.63 %
+Bash         4 mins          -------------------------   00.89 %
 Docker       0 secs          -------------------------   00.18 %
 CSS          0 secs          -------------------------   00.10 %
 JavaScript   0 secs          -------------------------   00.03 %
