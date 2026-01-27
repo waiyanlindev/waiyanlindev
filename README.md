@@ -40,19 +40,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 December 2025 - To: 24 January 2026
+From: 26 December 2025 - To: 25 January 2026
 
-Total Time: 75 hrs 23 mins
+Total Time: 75 hrs 34 mins
 
-HTML         39 hrs 17 mins  >>>>>>>>>>>>>------------   52.03 %
-Python       29 hrs 9 mins   >>>>>>>>>>---------------   38.63 %
-JavaScript   2 hrs 40 mins   >------------------------   03.54 %
+HTML         39 hrs 36 mins  >>>>>>>>>>>>>------------   52.31 %
+Python       29 hrs 1 min    >>>>>>>>>>---------------   38.34 %
+JavaScript   2 hrs 40 mins   >------------------------   03.53 %
 INI          1 hr 31 mins    >------------------------   02.01 %
 Bash         1 hr 16 mins    -------------------------   01.69 %
 Markdown     38 mins         -------------------------   00.85 %
 CSS          23 mins         -------------------------   00.51 %
 Text         20 mins         -------------------------   00.45 %
-Other        6 mins          -------------------------   00.14 %
+Other        7 mins          -------------------------   00.17 %
 CSV          6 mins          -------------------------   00.14 %
 ```
 
