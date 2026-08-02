@@ -40,16 +40,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 June 2026 - To: 30 July 2026
+From: 01 July 2026 - To: 31 July 2026
 
-Total Time: 4 hrs 9 mins
+Total Time: 3 hrs 51 mins
 
-Python            1 hr 41 mins          >>>>>>>>>>---------------   40.50 %
-HTML              1 hr 11 mins          >>>>>>>------------------   28.50 %
-Bash              46 mins               >>>>>--------------------   18.43 %
-Gettext Catalog   29 mins               >>>----------------------   11.96 %
-JavaScript        1 min                 -------------------------   00.55 %
-INI               0 secs                -------------------------   00.05 %
+Python            1 hr 37 mins          >>>>>>>>>>>--------------   42.10 %
+HTML              1 hr 11 mins          >>>>>>>>-----------------   30.75 %
+Bash              31 mins               >>>----------------------   13.60 %
+Gettext Catalog   29 mins               >>>----------------------   12.90 %
+JavaScript        1 min                 -------------------------   00.60 %
+INI               0 secs                -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
