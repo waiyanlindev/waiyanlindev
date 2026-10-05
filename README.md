@@ -40,14 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2026 - To: 02 October 2026
+From: 03 September 2026 - To: 03 October 2026
 
-Total Time: 3 hrs 8 mins
+Total Time: 1 hr 25 mins
 
-JavaScript   2 hrs 38 mins         >>>>>>>>>>>>>>>>>>>>>----   83.73 %
-Python       15 mins               >>-----------------------   08.01 %
-HTML         14 mins               >>-----------------------   07.74 %
-CSS          0 secs                -------------------------   00.51 %
+JavaScript   1 hr 12 mins          >>>>>>>>>>>>>>>>>>>>>----   84.78 %
+HTML         12 mins               >>>>---------------------   14.09 %
+CSS          0 secs                -------------------------   01.13 %
 ```
 
 <!--END_SECTION:waka-->
